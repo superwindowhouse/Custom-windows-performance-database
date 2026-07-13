@@ -1,34 +1,58 @@
-### Vinyl Casement Window – Technical Specification
+IyMjIFZpbnlsIENhc2VtZW50IFdpbmRvdyDigJMgVGVjaG5pY2FsIFNwZWNp
+ZmljYXRpb24KCiMjIyMgRXh0cnVzaW9uIFByb2ZpbGUKLSBNYXRlcmlhbDog
+dVBWQyB3aXRoIFVWLXN0YWJpbGl6ZWQgVGlP4oKCIChubyByZS1ncm91bmQg
+dmlueWwpCi0gQ2hhbWJlciBjb3VudDogNSsgKDcrIGZvciBwcmVtaXVtKQot
+IFdhbGwgdGhpY2tuZXNzOiBtaW4gMC4wNzAiIChBQU1BIDEwMS0yNSk7IGNv
+bW1lcmNpYWwgc3RhbmRhcmQgMC4wOTAiCi0gUmVpbmZvcmNlbWVudDogZ2Fs
+dmFuaXplZCBzdGVlbCBsaW5lciByZXF1aXJlZCBmb3Igc2FzaGVzID40OCIK
+CiMjIyMgR2xhemluZyBBc3NlbWJseQotIElHIHVuaXQ6IDUvOCIgZG91Ymxl
+LXBhbmUsIExvdy1FIDM2NiwgYXJnb24gZmlsbAotIFNwYWNlcjogd2FybS1l
+ZGdlIChzdGFpbmxlc3Mgc3RlZWwgb3IgaHlicmlkIGZvYW07IGF2b2lkIGFs
+dW1pbnVtIGJyaWRnZXMpCi0gT3B0aW9uYWwgdHJpcGxlLXBhbmU6IFUtZmFj
+dG9yIGRvd24gdG8gMC4xNwoKIyMjIyBTZWFsaW5nIFN5c3RlbQotIFRocmVl
+IEVQRE0gcGxhbmVzOiBvbmUgZmluIHNlYWwgKyB0d28gYnVsYiBzZWFscwot
+IEFsbCBFUERNIChldGh5bGVuZSBwcm9weWxlbmUgZGllbmUgbW9ub21lcik7
+IG5vIHBvbHl1cmV0aGFuZSBvciBzaWxpY29uZQoKIyMjIyBIYXJkd2FyZQot
+IEhpbmdlOiAzMDQgc3RhaW5sZXNzIHN0ZWVsLCAxNi1nYXVnZSwgMjAsMDAw
+KyBjeWNsZXMgKEFTVE0gRTIyNjgpCi0gTG9hZCBjYXBhY2l0eTogMTIwIGxi
+cyBwZXIgc2FzaAotIEFkanVzdGFiaWxpdHk6IDMtYXhpcyAoaW4tb3V0LCB1
+cC1kb3duLCB0aWx0KQotIExvY2s6IHNjcmV3LWFwcGxpZWQgbXVsdGktcG9p
+bnQgKG5vdCBjbGlwLW9uKQoKIyMjIyBQZXJmb3JtYW5jZSAoQUFNQS9XRE1B
+IHN0YW5kYXJkcyB2cy4gY29tbWVyY2lhbCBsaW5lKQp8IFBhcmFtZXRlciB8
+IENvZGUgTWluIChBQU1BIDEwMS0yNSkgfCBDb21tZXJjaWFsIExpbmUgfAp8
+LS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0t
+LS0tLS0tLS18CnwgQWlyIGxlYWthZ2UgfCDiiaQwLjMwIGNmbS9mdMKyIHwg
+MC4wOSBjZm0vZnTCsiB8CnwgV2F0ZXIgcmVzaXN0YW5jZSB8IE5vIGxlYWsg
+YXQgMTUlIERQIHwgTm8gbGVhayBhdCAyMCUgRFAgfAp8IERlc2lnbiBQcmVz
+c3VyZSB8IERQIDQwICh0eXBpY2FsKSB8IERQIDUwLTcwIHwKfCBVLWZhY3Rv
+ciB8IOKJpDAuMzAgfCAwLjI0IChEUCkgLyAwLjE3IChUUCkgfAp8IFNIR0Mg
+fCDiiaQwLjQwIHwgMC4yNyB8CnwgVlQgfCDiiaUwLjQwIHwgMC41MiB8CgpG
+b3IgbW9yZSBhcmNoaXRlY3R1cmFsIHByb2ZpbGVzLCB2aXNpdCBvdXIgW1By
+ZW1pdW0gQ3VzdG9tIFdpbmRvdyAmIERvb3IgRmFjdG9yeV0oaHR0cHM6Ly9z
+dXBlcndpbmRvd2hvdXNlLmNvbSkuIEZ1bGwgcHJvamVjdCBkYXRhc2V0cyBh
+cmUgZGV0YWlsZWQgaW4gdGhlIFtWaW55bCBDYXNlbWVudCBXaW5kb3cgU3Ry
+dWN0dXJlIEFBTUEgUGVyZm9ybWFuY2VdKGh0dHBzOi8vc3VwZXJ3aW5kb3do
+b3VzZS5jb20vdmlueWwtY2FzZW1lbnQtd2luZG93LWRlZmluaXRpb24tc3Ry
+dWN0dXJlKS4=
+\n\n### Vinyl Casement Window Technical Specification
 
-#### Extrusion Profile
-- Material: uPVC with UV-stabilized TiO₂ (no re-ground vinyl)
-- Chamber count: 5+ (7+ for premium)
-- Wall thickness: min 0.070" (AAMA 101-25); commercial standard 0.090"
-- Reinforcement: galvanized steel liner required for sashes >48"
+#### Performance Characteristics (Tested per AAMA/WDMA/CSA 101/I.S.2/A440)
+| Parameter | Code Min | Premium Vinyl Casement |
+|-----------|----------|------------------------|
+| Structural DP | DP30 | DP50+ |
+| Air Leakage | 0.30 cfm/ft² max | ≤0.03 cfm/ft² |
+| Water Resistance | 5.0 psf min | 8.0–12.0 psf |
+| U-Factor | 0.45 (Energy Star) | 0.22–0.18 (triple low-E argon) |
+| SHGC | 0.25–0.40 (climate dependent) | 0.21–0.60 (customizable coatings) |
+| Acoustic STC | No code (desirable 30+) | 36–44 (with laminated glass) |
 
-#### Glazing Assembly
-- IG unit: 5/8" double-pane, Low-E 366, argon fill
-- Spacer: warm-edge (stainless steel or hybrid foam; avoid aluminum bridges)
-- Optional triple-pane: U-factor down to 0.17
+#### Core Engineering Features
+- **Compression Seal**: Multi-point locking pulls sash against main frame gasket. No sliding weatherstrips to degrade.
+- **Multi-Point Lock**: 2–4 engagement points distributed along sash edge, increasing forced entry resistance and DP rating.
+- **Multi-Chambered PVC Profile**: Inherent thermal break; no warping, swelling, or rot. Maintains seal geometry over 30+ years.
 
-#### Sealing System
-- Three EPDM planes: one fin seal + two bulb seals
-- All EPDM (ethylene propylene diene monomer); no polyurethane or silicone
+#### HVAC Impact
+- Reduced uncontrolled infiltration → lower sensible load → smaller HVAC equipment.
+- Tighter envelope improves HERS Index and Energy Star compliance.
 
-#### Hardware
-- Hinge: 304 stainless steel, 16-gauge, 20,000+ cycles (ASTM E2268)
-- Load capacity: 120 lbs per sash
-- Adjustability: 3-axis (in-out, up-down, tilt)
-- Lock: screw-applied multi-point (not clip-on)
-
-#### Performance (AAMA/WDMA standards vs. commercial line)
-| Parameter | Code Min (AAMA 101-25) | Commercial Line |
-|-----------|------------------------|----------------|
-| Air leakage | ≤0.30 cfm/ft² | 0.09 cfm/ft² |
-| Water resistance | No leak at 15% DP | No leak at 20% DP |
-| Design Pressure | DP 40 (typical) | DP 50-70 |
-| U-factor | ≤0.30 | 0.24 (DP) / 0.17 (TP) |
-| SHGC | ≤0.40 | 0.27 |
-| VT | ≥0.40 | 0.52 |
-
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Structure AAMA Performance](https://superwindowhouse.com/vinyl-casement-window-definition-structure).
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Air Leak & Structural Performance Standards](https://superwindowhouse.com/vinyl-casement-window-benefits-advantages).
