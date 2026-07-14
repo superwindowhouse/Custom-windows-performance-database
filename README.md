@@ -87,4 +87,42 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Every 3-5 years: inspect & re-caulk exterior perimeter seal
 - Clean with mild soap and soft cloth; avoid abrasive cleaners
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Lifespan & Durability Specifications](https://superwindowhouse.com/vinyl-casement-window-lifespan-durability).
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Lifespan & Durability Specifications](https://superwindowhouse.com/vinyl-casement-window-lifespan-durability).\n\n### Vinyl Casement Window – Technical Specification & Installation Standard
+
+#### Performance Parameters (Commercial Grade)
+| Metric | Value | Standard |
+|--------|-------|----------|
+| Air Infiltration | ≤0.05 cfm/ft² | AAMA/WDMA/CSA 101/I.S.2/A440 |
+| U-Factor (NFRC 100) | ≤0.28 | Energy Star Most Efficient 2024 |
+| SHGC | 0.22–0.28 (selective Low-E) | ≤0.25 per Energy Star |
+| Structural DP Rating | 50–65 | ASTM E1886/E1996 impact |
+| Condensation Resistance | 65–75 | NFRC 500 |
+| Egress Clear Opening | ≥5.7 ft², ≥20" width, ≥24" height | IRC 2024 |
+
+#### Frame Construction Requirements
+- Multi-chamber extrusions: 5–7 chambers
+- Corner joint: fusion-welded (not mechanically fastened)
+- Weatherstripping: bulb-type EPDM or silicone, two continuous seals
+- Reinforcement: internal aluminum or galvanized steel in sash/frame for DP50+
+
+#### Flashing Protocol (New Construction)
+1. Sill pan: 24-ga galvanized metal or PVC, 6" beyond each side, slope 1/4" per foot
+2. Self-adhered membrane: sill + 8" up jambs
+3. Frame placement: composite shims under frame only; never under nailing fin
+4. Jamb flashing: self-adhered tape, 3" minimum lap
+5. Head flashing: Z-profile, overlap top fin 2", extend 1/2" into J-channel; caulk sides/top only
+
+#### Fastening Specification
+| Parameter | Standard Zone | High-Wind Zone |
+|-----------|---------------|----------------|
+| Spacing | 16" o.c. | 12" o.c. |
+| Torque | 25–30 in-lbs | 25–30 in-lbs |
+| Fastener | Corrosion-resistant | #14/#10 SS pan-head with neoprene washer |
+
+#### Prohibited Practices
+- Sealing bottom weep path (must remain open)
+- Using wood shims (use fiber cement or vinyl)
+- Expanding foam with high expansion (use low-expansion window foam)
+- Overtightening fasteners (causes frame distortion)
+
+For complete technical data, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full installation details are documented in the [Vinyl Casement Window Installation & Applications Guide](https://superwindowhouse.com/vinyl-casement-window-installation-applications).
