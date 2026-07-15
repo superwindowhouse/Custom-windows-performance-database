@@ -125,4 +125,32 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Expanding foam with high expansion (use low-expansion window foam)
 - Overtightening fasteners (causes frame distortion)
 
-For complete technical data, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full installation details are documented in the [Vinyl Casement Window Installation & Applications Guide](https://superwindowhouse.com/vinyl-casement-window-installation-applications).
+For complete technical data, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full installation details are documented in the [Vinyl Casement Window Installation & Applications Guide](https://superwindowhouse.com/vinyl-casement-window-installation-applications).\n\n### Vinyl Casement Window Maintenance Technical Specification
+
+#### Weep Hole Drainage System
+- **Inspection frequency**: Quarterly (monthly in coastal/pollen-heavy areas)
+- **Cleaning method**: Soft nylon brush or compressed air, max 30 PSI
+- **Flush solution**: Warm water + pH-neutral dish soap (no bleach)
+- **Performance test**: 8 oz water pour; drainage must complete within 2 minutes
+
+#### Multi-Point Lock & Hinge Lubrication
+| Component | Lubricant Type | Method | Frequency |
+|-----------|---------------|--------|-----------|
+| Lock cam & keepers | Silicone spray (low-tack) | Apply to cloth, wipe surfaces | Bi-annual (spring/fall) |
+| Hinge arms & pivot pins | PTFE dry lubricant | One burst into joint, cycle 3x | Annual |
+| Handle mechanism | Non-oil silicone or graphite | Inject at base | Bi-annual |
+| Frame track (sash bottom) | Silicone spray (on cloth) | Wipe track; no direct spray | Annual |
+
+#### Weatherstripping Replacement Schedule
+- **Standard exposure**: Replace every 8–12 years
+- **High UV (Florida/Texas)**: Replace every 5–7 years
+- **Inspection method**: Dollar bill test (sliding friction = seal condition)
+- **Material**: OEM silicone or EPDM bulb/fin; aftermarket not recommended
+
+#### Full Maintenance Checklist (per AAMA 101/WDMA)
+- Monthly: Visual check for water stains or cracked glass
+- Quarterly: Clean exterior glass (30% vinegar/70% water), remove sill debris, lubricate handles
+- Bi-annual: Full lubrication, seal inspection, caulk check
+- Annual: Remove sash, clean hinge channels, air leakage measurement (smoke pen/thermal camera)
+
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Maintenance & Care Guide](https://superwindowhouse.com/vinyl-casement-window-maintenance-care).
