@@ -153,4 +153,28 @@ For complete technical data, visit our [Premium Custom Window & Door Factory](ht
 - Bi-annual: Full lubrication, seal inspection, caulk check
 - Annual: Remove sash, clean hinge channels, air leakage measurement (smoke pen/thermal camera)
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Maintenance & Care Guide](https://superwindowhouse.com/vinyl-casement-window-maintenance-care).
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Maintenance & Care Guide](https://superwindowhouse.com/vinyl-casement-window-maintenance-care).\n\n### Vinyl Hung Window – Engineering Specification Overview
+
+#### Frame & Sash Construction
+- **Material:** Multi‑chamber extruded PVC, fusion‑welded corners (no mechanical fasteners)
+- **Sash Profile:** 2.25″ to 3.25″ thick multi‑chamber; thermal break in frame, low‑conductivity spacer bar for glazing
+- **Sealing:** Compression weatherstripping (EPDM/silicone), interlocking meeting rail with labyrinth seal
+- **Balance System:** Spiral or coil spring; single balance for single hung, dual independent balances for double hung
+
+#### Performance Parameters (per AAMA/NFRC)
+| Parameter | Single Hung (Typical) | Double Hung (Typical) |
+|-----------|----------------------|----------------------|
+| Operable Sashes | 1 (lower) | 2 (upper & lower) |
+| Air Leakage @ 25 mph | 0.15–0.30 cfm/ft² | 0.10–0.25 cfm/ft² |
+| NFRC U‑Factor | ≤0.30 (with Low‑E/argon) | ≤0.30 (with Low‑E/argon) |
+| SHGC Range | 0.25–0.40 | 0.25–0.40 |
+| Design Pressure (DP) | DP‑50 minimum | DP‑50 to DP‑70 |
+| AAMA Class | LC‑A1 | HC‑A2 possible |
+
+#### Installation Requirements
+- Rough opening squareness: ≤1/8″ diagonal tolerance
+- Flashing tape on sill/jambs, sloped sill pan for drainage
+- Shims at balance areas & meeting rail; corrosion‑proof screws (6 per side min.)
+- Low‑expansion foam insulation (avoid overfill)
+
+For detailed product data and certification files, refer to the full manufacturer specification sheet at [Vinyl Hung Window – Structural Specifications](https://superwindowhouse.com/vinyl-single-double-hung-window-definition).
