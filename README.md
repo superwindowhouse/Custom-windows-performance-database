@@ -177,4 +177,41 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Shims at balance areas & meeting rail; corrosion‑proof screws (6 per side min.)
 - Low‑expansion foam insulation (avoid overfill)
 
-For detailed product data and certification files, refer to the full manufacturer specification sheet at [Vinyl Hung Window – Structural Specifications](https://superwindowhouse.com/vinyl-single-double-hung-window-definition).
+For detailed product data and certification files, refer to the full manufacturer specification sheet at [Vinyl Hung Window – Structural Specifications](https://superwindowhouse.com/vinyl-single-double-hung-window-definition).\n\n### Vinyl Single and Double Hung Windows: Technical Specification Summary
+
+#### Performance Standards
+- AAMA 101 certified
+- U-value: <0.30 Btu/h·ft²·°F
+- Air infiltration control superior to sliding or casement
+- DP-35 minimum recommended; DP-50 available for hurricane regions
+- ASTM F588 forced-entry resistance: 10-pound drop test on latch
+- AAMA 1304-15 impact-resistance option with thicker extrusions
+
+#### Security Features (Specify for Enhanced)
+- Continuous sash interlock (rigid PVC profile across full width)
+- Steel-reinforced sill
+- Multi-point locking system (3-4 points vs single center latch)
+- DP-50 rated frames withstand 50 psf design pressure
+
+#### Cost & Maintenance (20-Year Lifecycle)
+| Parameter | Vinyl | Wood | Aluminum |
+|-----------|-------|------|----------|
+| Painting/Staining | None | Every 3-5 years | None* |
+| Weatherstripping | Once (year 15-20) | Every 8-12 years | Every 10 years |
+| Sash balance | Replaceable block-and-tackle | Frame disassembly | Difficult (welded) |
+| Window washing | Tilt-in easy | Full screen removal | Tilt-in (some) |
+| Corrosion treatment | Never | Never | Annually (coastal) |
+| Full replacement/opening | $250-$450 | $600-$1,200 | $400-$800 |
+
+*If factory pre-coated.
+
+#### Ventilation (Double Hung)
+- Stack-effect airflow: upper sash exhausts warm air, lower sash brings cool air
+- Both sashes screened: doubled opening area vs single
+- Reduces mechanical ventilation need during shoulder seasons
+
+#### Selection Criteria
+- **Single hung**: exterior access available; maximum cost savings; narrow openings
+- **Double hung**: no exterior access; tilt-in cleaning; ventilation control; independent sash opening
+
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Hung Window Thermal Performance Metrics](https://superwindowhouse.com/vinyl-single-double-hung-window-benefits).
