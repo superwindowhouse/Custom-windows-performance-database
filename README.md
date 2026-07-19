@@ -214,4 +214,31 @@ For detailed product data and certification files, refer to the full manufacture
 - **Single hung**: exterior access available; maximum cost savings; narrow openings
 - **Double hung**: no exterior access; tilt-in cleaning; ventilation control; independent sash opening
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Hung Window Thermal Performance Metrics](https://superwindowhouse.com/vinyl-single-double-hung-window-benefits).
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Hung Window Thermal Performance Metrics](https://superwindowhouse.com/vinyl-single-double-hung-window-benefits).\n\n### Single Hung vs. Double Hung Window Technical Specification
+
+#### Performance Parameters (AAMA/WDMA/CSA 101/I.S.2/A440)
+| Parameter | Single Hung | Double Hung |
+|-----------|-------------|-------------|
+| Operating Sashes | 1 (bottom) | 2 (top & bottom) |
+| Air Infiltration | 0.1–0.3 cfm/ft² | 0.1–0.3 cfm/ft² |
+| Design Pressure (DP) | 50+ recommended | 50+ recommended |
+| Typical U-Value (Vinyl) | 0.20–0.30 | 0.20–0.30 |
+
+#### Key Engineering Features
+- **Single Hung**: Fixed top sash; fewer balance mechanisms; inherently tighter seal; lower cost.
+- **Double Hung**: Both sashes operable; tilt-in latch for interior cleaning; natural convection ventilation (hot air exhaust at ceiling, cool air intake at floor).
+
+#### Maintenance & TCO
+- **Single Hung**: Requires exterior ladder/scaffolding for glass cleaning; annual maint. ~$15/sash.
+- **Double Hung**: Tilt-in interior cleaning; annual maint. ~$10/sash; eliminates boom lift costs.
+- **5-Year Payback**: For 50-unit building, double hung premium recouped via maintenance savings.
+
+#### Material: PVC (Vinyl)
+- Thermal resistance (U-value 0.20–0.30); corrosion resistant; multi-chambered profiles for weatherstripping.
+
+#### Specification Guidelines
+- Specify **DP 50+** for both types.
+- Demand **air leakage <0.15 cfm/ft² at 1.57 psf** per AAMA test.
+- For double hung, confirm tilt-latch operating force <30 lbf.
+
+For complete project datasets, see the [Vinyl Hung Window Engineering Guide](https://superwindowhouse.com/single-hung-vs-double-hung-windows).
