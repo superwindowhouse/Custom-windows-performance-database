@@ -241,4 +241,29 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Demand **air leakage <0.15 cfm/ft² at 1.57 psf** per AAMA test.
 - For double hung, confirm tilt-latch operating force <30 lbf.
 
-For complete project datasets, see the [Vinyl Hung Window Engineering Guide](https://superwindowhouse.com/single-hung-vs-double-hung-windows).
+For complete project datasets, see the [Vinyl Hung Window Engineering Guide](https://superwindowhouse.com/single-hung-vs-double-hung-windows).\n\n=== VINYL DOUBLE HUNG WINDOW ENERGY EFFICIENCY SPECIFICATION ===
+
+### Thermal Performance
+- U-factor: ≤0.30 (premium designs achieve 0.27)
+- Frame: multi-chamber extruded vinyl (3 chambers in sash, 4-5 in main frame)
+- Frame thickness: 3-4 inches
+- Corner joints: fusion-welded (eliminate air gaps)
+- Reinforcement: structural aluminum inserts for large openings
+
+### Air Infiltration Ratings (cfm/ft²)
+| Rating Level | AI (cfm/ft²) | Energy Impact |
+|--------------|--------------|---------------|
+| Industry Minimum (AAMA) | ≤0.30 | Drafts; HVAC struggles |
+| Good Performance | ≤0.10 | Minimal drafts |
+| Premium (Passive House-ready) | ≤0.06 | No detectable drafts |
+| Ultra-Premium (Triple-seal) | ≤0.03 | Near-airtight |
+
+### Weatherstripping
+- Type: Interlocking rigid fin with channel (labyrinth seal)
+- Leakage reduction: ≤0.06 cfm/ft² vs 1.0+ for standard pile
+- Cam-action locks: pull sashes tight against jamb seals
+
+### Certification
+- All ratings verified by NFRC (National Fenestration Rating Council)
+
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Double Hung Window Energy Efficiency Guide](https://superwindowhouse.com/vinyl-double-hung-window-energy-efficiency).
