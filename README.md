@@ -266,4 +266,42 @@ For complete project datasets, see the [Vinyl Hung Window Engineering Guide](htt
 ### Certification
 - All ratings verified by NFRC (National Fenestration Rating Council)
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Double Hung Window Energy Efficiency Guide](https://superwindowhouse.com/vinyl-double-hung-window-energy-efficiency).
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Double Hung Window Energy Efficiency Guide](https://superwindowhouse.com/vinyl-double-hung-window-energy-efficiency).\n\n### Vinyl Double Hung Window Factory Pricing — Technical Procurement Guide
+
+#### Material Cost Breakdown (per unit, material only)
+
+| Component | Standard 2'x4' | Large 3'x5' | Custom up to 5'x6' |
+|-----------|----------------|-------------|---------------------|
+| Extruded vinyl frame (multi-chamber) | $28–$45 | $45–$72 | $68–$105 |
+| Dual-pane glass (Low-E, Argon, double-strength) | $22–$38 | $38–$60 | $55–$95 |
+| Balance system (spiral or block-and-tackle) | $8–$14 | $12–$18 | $16–$25 |
+| Weatherstripping & hardware (DP50 rated) | $6–$10 | $9–$14 | $12–$20 |
+| Fiberglass screen | $5–$8 | $7–$12 | $10–$18 |
+| **Total material cost** | **$85–$130** | **$125–$185** | **$175–$295** |
+
+#### Bulk Discount Tiers
+- 50–99 units: 12–15% off base price
+- 100–299 units: 15–20% off base price
+- 300+ units: 20–25% off base price + shared shipping savings ($150–$400/truckload)
+
+#### Performance Specifications
+- **U-Factor**: 0.28–0.32 (standard dual-pane Low-E/Argon); triple-pane (0.22) adds $35–$55/unit.
+- **SHGC**: 0.25–0.35 (cooling climates); 0.40–0.55 (heating climates).
+- **Design Pressure**: DP50 standard; DP65–DP75 for high-wind zones (adds $20–$40/unit).
+- **Certification**: AAMA 101/HVHC 2020 required; NFRC labels for energy performance.
+- **Impact Resistance**: Add $15–$30/unit for Florida/Dade County compliant glass.
+
+#### Custom Size Cost Drivers
+- Tooling changeover: $50–$100 per unique size (amortized across quantity).
+- Reinforced frames: heavier-gauge steel or aluminum for DP50+ (adds $20–$40).
+- Custom glass: tempered or laminated premium 20–40% over stock.
+- Balance system over-sizing: custom-tuned constant force balances add $10–$25 per sash.
+
+#### Procurement Best Practices
+1. Request factory pricing sheets with FOB origin.
+2. Request NFRC labels per configuration.
+3. Negotiate breakage allowances (standard 2–3%, can reduce to 1%).
+4. Consolidate custom sizes into a single production run for additional 5–10% discount (100+ units).
+5. Specify frame colors: white vinyl cheapest; woodgrain or custom integral colors add $8–$15/unit.
+
+For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost & Performance Guide](https://superwindowhouse.com/vinyl-double-hung-window-cost-pricing).
