@@ -304,51 +304,32 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 4. Consolidate custom sizes into a single production run for additional 5–10% discount (100+ units).
 5. Specify frame colors: white vinyl cheapest; woodgrain or custom integral colors add $8–$15/unit.
 
-For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost & Performance Guide](https://superwindowhouse.com/vinyl-double-hung-window-cost-pricing).\n\n================================================================================
-VINYL DOUBLE HUNG WINDOW LIFESPAN - ENGINEERING REFERENCE
-================================================================================
+For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost & Performance Guide](https://superwindowhouse.com/vinyl-double-hung-window-cost-pricing).\n\n### Vinyl Hung Windows: Technical Performance Specifications and Installation Standards
 
-### Service Life by Window Tier (ASTM E774 field data, 15k+ installations)
-| Tier | Balance Type | Service Life | Primary Failure Mode |
-|------|-------------|--------------|----------------------|
-| Builder-grade single hung | Standard block & tackle (non-adjustable) | 12–18 yrs | Cord fraying, nylon shoe crack |
-| Mid-range double hung | Constant force spiral | 15–22 yrs | Spring fatigue |
-| Premium double hung | Heavy-duty block & tackle (stainless cord) | 20–30 yrs | Weatherstrip compression set |
-| Commercial-grade (AAMA 910-15) | Continuous coil spring, steel shoes | 25–35+ yrs | IGU seal failure |
+#### Primary Applications
+- **Multi-Family Residential**: 15-22% HVAC savings vs. aluminum; 8-12 units/day installation rate
+- **Historic Renovations**: Custom slit dimensions for 1.5"-2" walls; frame depths 3.25"-4.56"
+- **New Construction**: Nailing fin with WRB flashing sequence (bottom→sides→top)
 
-### Balance System Durability (AAMA 910-15 tested)
-- Standard block & tackle: 8,000–12,000 cycles; max sash weight 25 lbs
-- Heavy-duty block & tackle: 20,000–30,000 cycles; max 45 lbs; stainless steel cord (7x7 strand); glass-filled nylon shoe with brass insert
-- Constant force spiral: 15,000–25,000 cycles
+#### NFRC-Certified Performance Data (Per AAMA/WDMA/CSA 101/I.S.2/A440)
 
-### Frame Structural Requirements (AAMA 101)
-- Main frame wall thickness: min 0.065 in (0.080 in recommended for dark colors)
-- Sash wall thickness: min 0.065 in
-- Dark colors in hot climates require 0.080 in min to prevent thermal bowing (165°F surface temp)
+| Metric | Standard Dual-Pane | Low-E/Argon | Triple-Pane Premium |
+|--------|-------------------|-------------|-------------------|
+| U-Factor (BTU/h·ft²·°F) | 0.32–0.35 | 0.27–0.30 | 0.18–0.22 |
+| SHGC | 0.52–0.58 | 0.25–0.40 | 0.28–0.35 |
+| Air Leakage (CFM/ft²) | ≤0.30 | ≤0.15 | ≤0.10 |
+| Design Pressure Rating | DP35–DP40 | DP40–DP50 | DP50–DP55 |
+| STC | 26–28 | 30–32 | 34–38 |
 
-### Hardware Durability (cycles to failure)
-| Component | Standard Grade | Premium Grade | Cost Premium |
-|-----------|---------------|---------------|--------------|
-| Pivot lock | 500 | 5,000 | $3.50 |
-| Lift handle (integrated) | 2,500 | 15,000 | $2.00 |
-| Balance shoe (nylon) | 8,000 | 25,000 | $1.50 |
-| Weatherstrip fin seal | 5,000 | 20,000 | $4.00 |
+#### Installation Best Practices
+- Rough opening tolerance: ±1/2" width, +1/4" height
+- Fastener spacing: 6" o.c. perimeter, 4" corners
+- Shim placement: sill only; never at jambs
 
-### Sash Drop Prevention
-- Specify balance at 1.5x actual sash weight
-- Use adjustable balance systems with external tension screws
-- Require AAMA 910-15 certification (<20% force degradation at 10k cycles)
-- Annual dry PTFE lubrication to jamb channels (extends life 30-50%)
+#### Balance Systems for Commercial Applications
+- Spiral balances: 300-400 lb capacity
+- Block-and-tackle: concealed for historic profiles
+- Constant force coil springs: tilt-in functionality
+- Friction shoe assemblies: wind load resistance
 
-### Maintenance Protocol
-1. Lubricate balance shoes with dry PTFE (no oil-based)
-2. Adjust balance tension if sash drifts
-3. Inspect pivot locks for cracking
-4. Replace weatherstrip if compressed <50%
-5. Clear weep holes with nylon brush
-
-### Repair vs Replace Threshold
-- Repair: sash sound, balance only failed (<$30), weatherstrip worn, window <12 yrs old
-- Replace: thermal warped frame, IG unit fogged (>15 yrs), obsolete balances, builder-grade (0.055 in walls)
-
-Full technical datasheet available: [Vinyl Double Hung Window Lifespan & Durability](https://superwindowhouse.com/vinyl-double-hung-window-lifespan-durability)
+For detailed architectural profiles and full project datasets, refer to [Vinyl Hung Window Installation Applications](https://superwindowhouse.com/vinyl-hung-window-installation-applications).
