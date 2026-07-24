@@ -332,4 +332,44 @@ For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost
 - Constant force coil springs: tilt-in functionality
 - Friction shoe assemblies: wind load resistance
 
-For detailed architectural profiles and full project datasets, refer to [Vinyl Hung Window Installation Applications](https://superwindowhouse.com/vinyl-hung-window-installation-applications).
+For detailed architectural profiles and full project datasets, refer to [Vinyl Hung Window Installation Applications](https://superwindowhouse.com/vinyl-hung-window-installation-applications).\n\n### Overview
+Technical maintenance specification for vinyl double hung windows with tilt-in cleaning and lubrication procedures. Compliant with AAMA 2604 performance standards.
+
+### Tilt Latch Operation
+- Unlock: rotate cam lock 90° from vertical.
+- Raise bottom sash 3–4 inches above sill.
+- Disengage: press both thumb latches inward or rotate single combined latch 180°; audible click indicates full disengagement.
+- Tilt inward: pivot sash onto interior sill; use padded support for glass protection.
+- For top sash: after bottom sash tilted, lower top sash 3 inches, press thumb latches, tilt inward.
+
+### Lubrication Specifications
+- **Lubricant type**: Dry PTFE or silicone-based lubricant only. Oil/grease prohibited (attracts debris, degrades vinyl).
+- **Spiral balances**: Apply light dry silicone spray to metal spiral rod while sash tilted; cycle sash up/down 5 times.
+- **Constant-force (block-and-tackle) balances**: Apply small amount of PTFE powder to balance shoe guide; avoid over-lubrication.
+- **Track lubrication**: Clean tracks with soft brush and mild soap; spray thin coat of dry lubricant along full jamb track; operate sash 5 cycles.
+- **Frequency**: Annual (spring or fall); semi-annual in high-humidity/coastal environments.
+
+### Cleaning Protocol
+| Step | Action | Notes |
+|------|--------|-------|
+| 1 | Tilt top sash inward, then bottom sash | Support with padded surface |
+| 2 | Clean exterior glass with microfiber cloth and pH-neutral cleaner | Avoid ammonia on low-E coatings |
+| 3 | Clean one side at a time; rinse with spray bottle | Never high-pressure spray |
+| 4 | Air-dry or use lint-free cloth | |
+| 5 | Frame/sash cleaning: mild dish soap + warm water | No abrasives or solvents (etching) |
+
+### Stain Removal Matrix
+- Mildew/mold: 30% white vinegar + 70% water.
+- Grease/oil: Fantastik or Murphy's Oil Soap.
+- Dried paint: non-abrasive sponge, circular motion.
+- Chewing gum: freeze with ice, scrape with plastic.
+- Rust: Fantastik or Lysol; rinse immediately.
+- Crayon/marker: Lestoil or water-based cleaner.
+
+### Troubleshooting
+- Sash won't tilt: verify lock fully disengaged (180°), sash raised 3–4 inches; apply silicone to latch if corroded.
+- Window won't lock: ensure sash fully seated, balance tension correct; adjust shoe or replace spiral rod.
+- Sash drifts down: replace constant-force balance with OEM part.
+- Hard operation after cleaning: residual soap film; rinse tracks, re-lubricate with dry PTFE.
+
+For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide](https://superwindowhouse.com/vinyl-double-hung-window-maintenance).
