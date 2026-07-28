@@ -372,4 +372,34 @@ Technical maintenance specification for vinyl double hung windows with tilt-in c
 - Sash drifts down: replace constant-force balance with OEM part.
 - Hard operation after cleaning: residual soap film; rinse tracks, re-lubricate with dry PTFE.
 
-For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide](https://superwindowhouse.com/vinyl-double-hung-window-maintenance).
+For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide](https://superwindowhouse.com/vinyl-double-hung-window-maintenance).\n\n### Tilt and Turn Window Technical Specification Overview
+
+#### Mechanism
+- Single handle activates perimeter steel gearbox and interlocking rods.
+- Three handle positions: Down (locked), Sideways (turn mode), Up (tilt mode).
+- Multi-point locking: 6-12 points distributed around sash.
+- Compression seals eliminate thermal bridging and drafts.
+
+#### Performance Data
+| Parameter | Tilt & Turn | Double-Hung | Casement | Sliding |
+|-----------|-------------|-------------|----------|--------|
+| Air leakage (cfm/ft²) | 0.01–0.05 | 0.3–0.5 | 0.1–0.3 | 0.3–0.6 |
+| U-value range (NFRC) | 0.18–0.28 | 0.28–0.45 | 0.25–0.35 | 0.30–0.50 |
+| DP rating typical | 40–60 | 25–35 | 35–50 | 20–30 |
+
+#### Features
+- **Tilt mode**: Top pivots inward 4-6 inches; safe ventilation, rain protection, child safety.
+- **Turn mode**: Full inward swing for cleaning and egress (IBC compliant).
+- **Frame materials**: uPVC (vinyl), aluminum-clad wood, thermally broken aluminum; fiberglass reinforcement for large openings.
+
+#### Installation
+- European block-and-shim method.
+- Continuous sill pan and exterior flashing.
+- Fasten through frame into rough opening (no nail fin).
+- Factory pre-applied perimeter sealant tape recommended.
+
+#### Compliance
+- Passive House, Energy Star 7.0, IECC 2024, Title 24.
+- Hurricane impact: DP-70+ with laminated glass (TAS 201/202).
+
+Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](https://superwindowhouse.com/what-is-tilt-and-turn-window)
