@@ -402,4 +402,36 @@ For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide
 - Passive House, Energy Star 7.0, IECC 2024, Title 24.
 - Hurricane impact: DP-70+ with laminated glass (TAS 201/202).
 
-Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](https://superwindowhouse.com/what-is-tilt-and-turn-window)
+Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](https://superwindowhouse.com/what-is-tilt-and-turn-window)\n\n### Tilt and Turn Window Technical Specification
+
+#### Air Infiltration (ASTM E283)
+- **Tilt & Turn (triple gasket):** < 0.05 CFM/ft²
+- **Double-hung (brush seal):** 0.30 CFM/ft²
+
+#### Thermal Performance
+- **U-value (triple-pane):** 0.18 – 0.22
+- **U-value (standard double-pane):** 0.30 – 0.35
+- **SHGC range:** customizable per climate zone (0.25 – 0.50)
+
+#### Frame Construction
+- **Profile depth:** 5-1/4” to 6”
+- **Chamber count:** 7+ independent internal chambers
+- **Reinforcement:** heavy-gauge galvanized steel core
+- **Thermal break (aluminum clad):** 34mm/38mm polyamide
+
+#### Design Pressure (DP)
+- **Tilt & Turn:** DP 50+ (tested per ASTM E330)
+- **Standard double-hung:** DP 35
+
+#### Glazing Options
+- Double or triple-pane
+- Warm edge spacers (condensation resistance: excellent)
+- Low-E, argon fill, customizable SHGC
+
+#### Installation Protocol (Fully-Taped Method)
+1. Sill pan (pre-formed metal)
+2. Sill flashing tape (flexible)
+3. Continuous air/water barrier tape at jambs & head
+4. Backer rod + acoustic sealant interior perimeter
+
+For complete product data and NFRC certificates, visit the [Tilt & Turn Window Engineering Guide](https://superwindowhouse.com/energy-efficient-tilt-and-turn-windows).
