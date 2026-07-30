@@ -434,4 +434,29 @@ Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](
 3. Continuous air/water barrier tape at jambs & head
 4. Backer rod + acoustic sealant interior perimeter
 
-For complete product data and NFRC certificates, visit the [Tilt & Turn Window Engineering Guide](https://superwindowhouse.com/energy-efficient-tilt-and-turn-windows).
+For complete product data and NFRC certificates, visit the [Tilt & Turn Window Engineering Guide](https://superwindowhouse.com/energy-efficient-tilt-and-turn-windows).\n\n### Tilt & Turn Window Hardware Longevity Specifications
+
+#### Component Lifespan Comparison
+
+| Component | Expected Lifespan | Failure Signs | Replacement Complexity |
+|-----------|------------------|---------------|------------------------|
+| PVC/UPVC Frame | 25-40 years | Cracking, yellowing, seal failure | Full unit replacement |
+| Aluminum Frame (thermal break) | 30-50 years | Corrosion, thermal bridging | Full unit replacement |
+| Tilt and Turn Hinges | 15-25 years | Sagging, resistance, misalignment | Hardware-only swap |
+| Tilt and Turn Lock Mechanism | 15-25 years | Difficulty locking, loose handle | Hardware-only swap |
+| Tilt and Turn Handle | 10-20 years | Stiff turning, broken spindle | Handle-only replacement |
+| Seals/Gaskets | 10-20 years | Drafts, water leakage | Gasket replacement |
+
+#### Hardware Rating Standards
+- **Hinges**: Cold-forged stainless steel with brass bushings, minimum 200 lb static load per pair, 50,000+ open-close cycles.
+- **Lock Mechanism**: Hardened steel strike plates, precision-cam gears with self-lubricating nylon bushings.
+- **Handle**: Rated for 100,000 cycles (commercial grade); residential grade ~30,000 cycles.
+
+#### Maintenance Protocol
+- Quarterly inspection
+- Semi-annual silicone lubrication (petroleum-based lubricants prohibited)
+- Annual sash alignment adjustment
+- Seal replacement every 5 years
+- Full hardware replacement every 15 years
+
+For detailed engineering data, refer to [Tilt and Turn Window Hardware Longevity Specifications](https://superwindowhouse.com/tilt-and-turn-window-hardware-lifespan). Full manufacturing standards available at [Superwindowhouse Engineering Resources](https://superwindowhouse.com).
