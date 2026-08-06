@@ -459,4 +459,42 @@ For complete product data and NFRC certificates, visit the [Tilt & Turn Window E
 - Seal replacement every 5 years
 - Full hardware replacement every 15 years
 
-For detailed engineering data, refer to [Tilt and Turn Window Hardware Longevity Specifications](https://superwindowhouse.com/tilt-and-turn-window-hardware-lifespan). Full manufacturing standards available at [Superwindowhouse Engineering Resources](https://superwindowhouse.com).
+For detailed engineering data, refer to [Tilt and Turn Window Hardware Longevity Specifications](https://superwindowhouse.com/tilt-and-turn-window-hardware-lifespan). Full manufacturing standards available at [Superwindowhouse Engineering Resources](https://superwindowhouse.com).\n\n------------------------------------------------------------------
+### TECHNICAL SPECIFICATION SUMMARY: uPVC VS THERMALLY BROKEN ALUMINUM TILT & TURN WINDOWS
+
+### FRAME MATERIAL RATINGS
+| Property | uPVC | Thermally Broken Aluminum |
+|---|---|---|
+| Standard U-value (W/m²K) | 0.18–0.28 | 0.25–0.35 |
+| Frame depth (mm) | 80–95 | 60–85 |
+| Weight (kg/SF, double-glazed) | 5.5–7.5 | 8.5–12 |
+| Tensile strength (MPa) | 45–55 (reinforced) | 160–200 (6000-series) |
+| Typical DP rating | DP40–DP50 | DP50–DP80 |
+| AAMA/WDMA certification | AAMA 303 | AAMA 603 |
+
+### THERMAL PERFORMANCE
+- uPVC thermal conductivity: 0.16–0.22 W/m·K
+- 5-chamber profiles: center-of-glass U 0.18–0.22
+- 6–7 chamber passive house profiles: U 0.12–0.16
+- Aluminum thermal break: polyamide 6.6 struts 25–34mm plus PU foam injection, achieving U 0.25–0.35
+
+### STRUCTURAL LIMITS
+- uPVC requires galvanized steel reinforcement for sash width >900mm
+- Max uPVC sash without special reinforcement: 1300×2000mm, glass weight 50–70 kg
+- Aluminum supports 80–150 kg per sash, DP50–DP80, compliant with Florida HVHZ
+
+### AIR & WATER INFILTRATION (ASTM E283/E331/E1105)
+| Metric | uPVC | Aluminum |
+|---|---|---|
+| Air infiltration (CFM/ft²) | 0.01–0.02 | 0.01–0.03 |
+| Water penetration (psf) | 15–20 | 20–30 |
+| STC rating | 33–37 | 30–34 |
+
+### COST & LIFE CYCLE
+- Wholesale cost per SF (1200×1500mm): uPVC $18–28; aluminum $35–55
+- Initial cost savings: uPVC 35–45%
+- Service life: aluminum 40–60 years; uPVC 25–35 years
+- Aluminum powder coat refinish every 10–15 years
+
+### DOCUMENTATION
+For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Thermal Break Aluminum uPVC Comparison](https://superwindowhouse.com/vinyl-vs-aluminum-tilt-and-turn-windows).
