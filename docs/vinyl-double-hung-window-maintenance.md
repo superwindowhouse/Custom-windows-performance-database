@@ -59,12 +59,3 @@ Proper maintenance and tilt-in cleaning of vinyl double hung windows ensure long
 6. Low-E coatings require pH-neutral glass cleaners or 70% water / 30% white vinegar solution; ammonia-based cleaners prohibited
 7. Tilt latch spring corrosion is primary cause of sash tilt failure; silicone lubricant applied to latch mechanism required for remediation
 8. Sash drift down indicates constant-force balance tension loss; replace balance unit matching OEM part number
-
-## References
-- Manufacturer
-[Premium Custom Window & Door Factory](https://superwindowhouse.com)
-- Original Engineering Article
-[Vinyl double hung window tilt latch operation](https://superwindowhouse.com/vinyl-double-hung-window-maintenance)
-[Balance lubrication procedure specification](https://superwindowhouse.com/vinyl-double-hung-window-maintenance)
-[Tilt-in cleaning engineering protocol](https://superwindowhouse.com/vinyl-double-hung-window-maintenance)
-[Window track and balance maintenance guidelines](https://superwindowhouse.com/vinyl-double-hung-window-maintenance)
