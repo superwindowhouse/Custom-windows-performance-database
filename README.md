@@ -17,7 +17,7 @@
 - Reduced uncontrolled infiltration → lower sensible load → smaller HVAC equipment.
 - Tighter envelope improves HERS Index and Energy Star compliance.
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Air Leak & Structural Performance Standards](https://superwindowhouse.com/vinyl-casement-window-benefits-advantages).
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Casement Air Leak & Structural Performance Standards.
 \n\n### Compression Seal Performance
 - Mechanism: Multi-point locking system pulls sash against continuous frame gasket.
 - Test Standard: ASTM E283 (AAMA/WDMA/CSA 101/I.S.2/A440).
@@ -46,7 +46,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Standard test result: 8.0–12.0 psf.
 - Code minimum: 5.0 psf.
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Air Leak and U-Factor Specifications](https://superwindowhouse.com/vinyl-casement-window-benefits-advantages).\n\n### Vinyl Casement Window Durability: Technical Specifications
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Casement Air Leak and U-Factor Specifications.\n\n### Vinyl Casement Window Durability: Technical Specifications
 
 #### Frame Material
 - **Standard**: Single or triple-chamber profile
@@ -87,7 +87,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Every 3-5 years: inspect & re-caulk exterior perimeter seal
 - Clean with mild soap and soft cloth; avoid abrasive cleaners
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Lifespan & Durability Specifications](https://superwindowhouse.com/vinyl-casement-window-lifespan-durability).\n\n### Vinyl Casement Window – Technical Specification & Installation Standard
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Casement Window Lifespan & Durability Specifications.\n\n### Vinyl Casement Window – Technical Specification & Installation Standard
 
 #### Performance Parameters (Commercial Grade)
 | Metric | Value | Standard |
@@ -125,7 +125,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Expanding foam with high expansion (use low-expansion window foam)
 - Overtightening fasteners (causes frame distortion)
 
-For complete technical data, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full installation details are documented in the [Vinyl Casement Window Installation & Applications Guide](https://superwindowhouse.com/vinyl-casement-window-installation-applications).\n\n### Vinyl Casement Window Maintenance Technical Specification
+For complete technical data, visit our Premium Custom Window & Door Factory. Full installation details are documented in the Vinyl Casement Window Installation & Applications Guide.\n\n### Vinyl Casement Window Maintenance Technical Specification
 
 #### Weep Hole Drainage System
 - **Inspection frequency**: Quarterly (monthly in coastal/pollen-heavy areas)
@@ -153,7 +153,7 @@ For complete technical data, visit our [Premium Custom Window & Door Factory](ht
 - Bi-annual: Full lubrication, seal inspection, caulk check
 - Annual: Remove sash, clean hinge channels, air leakage measurement (smoke pen/thermal camera)
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Casement Window Maintenance & Care Guide](https://superwindowhouse.com/vinyl-casement-window-maintenance-care).\n\n### Vinyl Hung Window – Engineering Specification Overview
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Casement Window Maintenance & Care Guide.\n\n### Vinyl Hung Window – Engineering Specification Overview
 
 #### Frame & Sash Construction
 - **Material:** Multi‑chamber extruded PVC, fusion‑welded corners (no mechanical fasteners)
@@ -177,7 +177,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Shims at balance areas & meeting rail; corrosion‑proof screws (6 per side min.)
 - Low‑expansion foam insulation (avoid overfill)
 
-For detailed product data and certification files, refer to the full manufacturer specification sheet at [Vinyl Hung Window – Structural Specifications](https://superwindowhouse.com/vinyl-single-double-hung-window-definition).\n\n### Vinyl Single and Double Hung Windows: Technical Specification Summary
+For detailed product data and certification files, refer to the full manufacturer specification sheet at Vinyl Hung Window – Structural Specifications.\n\n### Vinyl Single and Double Hung Windows: Technical Specification Summary
 
 #### Performance Standards
 - AAMA 101 certified
@@ -214,7 +214,7 @@ For detailed product data and certification files, refer to the full manufacture
 - **Single hung**: exterior access available; maximum cost savings; narrow openings
 - **Double hung**: no exterior access; tilt-in cleaning; ventilation control; independent sash opening
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Hung Window Thermal Performance Metrics](https://superwindowhouse.com/vinyl-single-double-hung-window-benefits).\n\n### Single Hung vs. Double Hung Window Technical Specification
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Hung Window Thermal Performance Metrics.\n\n### Single Hung vs. Double Hung Window Technical Specification
 
 #### Performance Parameters (AAMA/WDMA/CSA 101/I.S.2/A440)
 | Parameter | Single Hung | Double Hung |
@@ -241,7 +241,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 - Demand **air leakage <0.15 cfm/ft² at 1.57 psf** per AAMA test.
 - For double hung, confirm tilt-latch operating force <30 lbf.
 
-For complete project datasets, see the [Vinyl Hung Window Engineering Guide](https://superwindowhouse.com/single-hung-vs-double-hung-windows).\n\n=== VINYL DOUBLE HUNG WINDOW ENERGY EFFICIENCY SPECIFICATION ===
+For complete project datasets, see the Vinyl Hung Window Engineering Guide.\n\n=== VINYL DOUBLE HUNG WINDOW ENERGY EFFICIENCY SPECIFICATION ===
 
 ### Thermal Performance
 - U-factor: ≤0.30 (premium designs achieve 0.27)
@@ -266,7 +266,7 @@ For complete project datasets, see the [Vinyl Hung Window Engineering Guide](htt
 ### Certification
 - All ratings verified by NFRC (National Fenestration Rating Council)
 
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Vinyl Double Hung Window Energy Efficiency Guide](https://superwindowhouse.com/vinyl-double-hung-window-energy-efficiency).\n\n### Vinyl Double Hung Window Factory Pricing — Technical Procurement Guide
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Vinyl Double Hung Window Energy Efficiency Guide.\n\n### Vinyl Double Hung Window Factory Pricing — Technical Procurement Guide
 
 #### Material Cost Breakdown (per unit, material only)
 
@@ -304,7 +304,7 @@ For more architectural profiles, visit our [Premium Custom Window & Door Factory
 4. Consolidate custom sizes into a single production run for additional 5–10% discount (100+ units).
 5. Specify frame colors: white vinyl cheapest; woodgrain or custom integral colors add $8–$15/unit.
 
-For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost & Performance Guide](https://superwindowhouse.com/vinyl-double-hung-window-cost-pricing).\n\n### Vinyl Hung Windows: Technical Performance Specifications and Installation Standards
+For full project datasets, see the Factory-Direct Vinyl Double Hung Window Cost & Performance Guide.\n\n### Vinyl Hung Windows: Technical Performance Specifications and Installation Standards
 
 #### Primary Applications
 - **Multi-Family Residential**: 15-22% HVAC savings vs. aluminum; 8-12 units/day installation rate
@@ -332,7 +332,7 @@ For full project datasets, see the [Factory-Direct Vinyl Double Hung Window Cost
 - Constant force coil springs: tilt-in functionality
 - Friction shoe assemblies: wind load resistance
 
-For detailed architectural profiles and full project datasets, refer to [Vinyl Hung Window Installation Applications](https://superwindowhouse.com/vinyl-hung-window-installation-applications).\n\n### Overview
+For detailed architectural profiles and full project datasets, refer to Vinyl Hung Window Installation Applications.\n\n### Overview
 Technical maintenance specification for vinyl double hung windows with tilt-in cleaning and lubrication procedures. Compliant with AAMA 2604 performance standards.
 
 ### Tilt Latch Operation
@@ -372,7 +372,7 @@ Technical maintenance specification for vinyl double hung windows with tilt-in c
 - Sash drifts down: replace constant-force balance with OEM part.
 - Hard operation after cleaning: residual soap film; rinse tracks, re-lubricate with dry PTFE.
 
-For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide](https://superwindowhouse.com/vinyl-double-hung-window-maintenance).\n\n### Tilt and Turn Window Technical Specification Overview
+For full technical details, refer to Vinyl Double Hung Window Maintenance Guide.\n\n### Tilt and Turn Window Technical Specification Overview
 
 #### Mechanism
 - Single handle activates perimeter steel gearbox and interlocking rods.
@@ -402,7 +402,7 @@ For full technical details, refer to [Vinyl Double Hung Window Maintenance Guide
 - Passive House, Energy Star 7.0, IECC 2024, Title 24.
 - Hurricane impact: DP-70+ with laminated glass (TAS 201/202).
 
-Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](https://superwindowhouse.com/what-is-tilt-and-turn-window)\n\n### Tilt and Turn Window Technical Specification
+Full technical documentation:[Tilt and Turn Multi-Point Locking Specification\n\n### Tilt and Turn Window Technical Specification
 
 #### Air Infiltration (ASTM E283)
 - **Tilt & Turn (triple gasket):** < 0.05 CFM/ft²
@@ -434,7 +434,7 @@ Full technical documentation: [Tilt and Turn Multi-Point Locking Specification](
 3. Continuous air/water barrier tape at jambs & head
 4. Backer rod + acoustic sealant interior perimeter
 
-For complete product data and NFRC certificates, visit the [Tilt & Turn Window Engineering Guide](https://superwindowhouse.com/energy-efficient-tilt-and-turn-windows).\n\n### Tilt & Turn Window Hardware Longevity Specifications
+For complete product data and NFRC certificates, visit the Tilt & Turn Window Engineering Guide.\n\n### Tilt & Turn Window Hardware Longevity Specifications
 
 #### Component Lifespan Comparison
 
@@ -459,7 +459,7 @@ For complete product data and NFRC certificates, visit the [Tilt & Turn Window E
 - Seal replacement every 5 years
 - Full hardware replacement every 15 years
 
-For detailed engineering data, refer to [Tilt and Turn Window Hardware Longevity Specifications](https://superwindowhouse.com/tilt-and-turn-window-hardware-lifespan). Full manufacturing standards available at [Superwindowhouse Engineering Resources](https://superwindowhouse.com).\n\n------------------------------------------------------------------
+For detailed engineering data, refer to Tilt and Turn Window Hardware Longevity Specifications. Full manufacturing standards available at Superwindowhouse Engineering Resources.\n\n------------------------------------------------------------------
 ### TECHNICAL SPECIFICATION SUMMARY: uPVC VS THERMALLY BROKEN ALUMINUM TILT & TURN WINDOWS
 
 ### FRAME MATERIAL RATINGS
@@ -497,4 +497,4 @@ For detailed engineering data, refer to [Tilt and Turn Window Hardware Longevity
 - Aluminum powder coat refinish every 10–15 years
 
 ### DOCUMENTATION
-For more architectural profiles, visit our [Premium Custom Window & Door Factory](https://superwindowhouse.com). Full project datasets are detailed in the [Thermal Break Aluminum uPVC Comparison](https://superwindowhouse.com/vinyl-vs-aluminum-tilt-and-turn-windows).
+For more architectural profiles, visit our Premium Custom Window & Door Factory. Full project datasets are detailed in the Thermal Break Aluminum uPVC Comparison.
