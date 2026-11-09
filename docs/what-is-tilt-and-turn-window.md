@@ -49,9 +49,3 @@ A dual-function, multi-point locking window system providing inward tilt from th
 - Turn mode enables interior cleaning of both glass surfaces without exterior access equipment.
 - Three operating modes reduce fenestration types required (replaces picture, casement, and hopper windows).
 - Multi-point locking compresses weatherstripping evenly, eliminating drafts and reducing sash warpage.
-
-## References
-- Manufacturer  
-  [Premium Custom Window & Door Factory](https://superwindowhouse.com)
-- Original Engineering Article  
-  [Tilt and Turn Window Mechanism Multi-Point Locking System](https://superwindowhouse.com/what-is-tilt-and-turn-window)
