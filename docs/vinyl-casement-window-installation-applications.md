@@ -62,11 +62,3 @@ Vinyl casement windows are crank-operated, side-hinged fenestration units that c
 - For EIFS-clad buildings, attach window to structural framing before EIFS application; do not fasten through EIFS.
 - For multi-story installations, each window must be leveled independently.
 
-
-## References
-
-- Manufacturer
-[Premium Custom Window & Door Factory](https://superwindowhouse.com)
-
-- Original Engineering Article
-[Vinyl Casement Window Applications](https://superwindowhouse.com/vinyl-casement-window-installation-applications)
